@@ -2,8 +2,6 @@
 
 **System Metadata** là kho lưu trữ tập trung các file cấu hình dạng **JSON**/**YAML**, phục vụ cho việc chia sẻ metadata giữa các hệ thống **backend**, **frontend** hoặc các **Microservices** và dịch vụ tích hợp.
 
----
-
 ## 🧩 Mục đích sử dụng
 *Repo này hướng tới việc chuẩn hóa, version hóa và công khai các thông tin tĩnh của hệ thống dưới dạng dữ liệu có cấu trúc.*
 
@@ -15,9 +13,7 @@
   - **Các worker được data hóa bằng JSON/YAML** dùng cho **Kastra** hoặc các hệ thống **flow/workflow engine**
   - Metadata phục vụ cho UI hoặc tài liệu hệ thống, kỹ thuật.
 
----
-
-## 📁 Cấu trúc thư mục (ví dụ)
+## 📁 Cấu trúc thư mục
 
 ```plaintext
 system-metadata/
